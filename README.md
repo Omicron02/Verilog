@@ -1,5 +1,5 @@
 ## Introduction
 
-Random verilog codes from DDCO 3th Sem.
+Random verilog codes from DDCO 3rd Sem.
 
 
